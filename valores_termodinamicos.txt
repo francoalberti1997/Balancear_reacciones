@@ -1,0 +1,35 @@
+Ac gas 0.00 0.00
+gas 69.12 59.84 41.3221
+sólido 0.00 0.00 10,209; 42,55J/mol.K
+gas 245.274
+solución aq 25.81 18.408 17.07
+gas 742.05
+solución aq 64.1
+Ag3+ gas 1576
+AgBr sólido -23.78; -23.90; -99.5KJ/mol -22.930; -23.02; -95.9KJ/mol 25.6; 107.1J/mol.K
+AgBrO3 sólido 17.6
+Ag2C2 sólido 84.5
+AgCN sólido 34.94; 33.8 39.20; 38.70 20.0
+Ag2CN2 sólido 51.5
+AgCNO sólido -21.1 -14.7
+AgCNS sólido 21 23.3
+Ag2CO3 sólido -120.97; -119.5 -104.48; -103.0 40.0
+sólido -98.41; -95.9 -74.2 33.8
+solución aq -91.7 -70.86
+Ag2C2O4 sólido -159.1; -158.7 -137.2 48
+gas 23.23 16.79 58.5
+sólido, cristalino -30,362; -30.11; -127,068KJ/mol; -127.04KJ/mol -26,224; -25.98; -109,85KJ/mol; -109.7KJ/mol 22,97; 96,2J/mol.K; 96.1J/mol.K
+AgClO2 sólido 0 16 32.16
+AgClO3 sólido -5.73 16 37.7
+AgClO4 sólido -7.75 21 38.8
+Ag2CrO4 sólido -176.2 -154.7 51.8
+sólido -48.5; -48.7 -44.2 20
+solución aq, 400 -53.1 -47.26
+AgF.H2O sólido -120.4 -101.8 27.4
+AgF.2H2O sólido -191.2 -159 38
+AgF.4H2O sólido -331.5 -268.6 45.9
+Ag4[Fe(CN)6] sólido -188.4
+AgH gas 67.7 60.8 48.86
+AgI sólido -14.91; -15.14; -62.4KJ/mol -15.85; -16.17; -66.3KJ/mol 27.3; 114.2J/mol.K
+AgIO3 sólido -41.7; -42.02 -24.08 35.7
+AgH3IO6 sólido 59.44
